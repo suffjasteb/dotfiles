@@ -1,0 +1,12 @@
+[user]
+        email = suffceein12@gmail.com
+        name = suffjasteb
+
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    cm = commit -m
+
+[help]
+    autocorrect = 1
